@@ -1,5 +1,7 @@
 # Base Java 8 Project
 
+For cloning and extending in basic projects  
+
 ## Gradle Dependencies
 
 ~~~ groovy
